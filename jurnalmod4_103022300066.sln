@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jurnalmod4_103022300066", "jurnalmod4_103022300066\jurnalmod4_103022300066.csproj", "{90280E78-89B9-4F7C-BC6E-AB9E9F296780}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpmod4_103022300066", "jurnalmod4_103022300066\tpmod4_103022300066.csproj", "{90280E78-89B9-4F7C-BC6E-AB9E9F296780}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
